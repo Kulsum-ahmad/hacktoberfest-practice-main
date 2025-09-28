@@ -1,2 +1,2 @@
-# Practice file for Hacktoberfest workflow
+'''module'''
 print("Hello from my practice feature branch!")
